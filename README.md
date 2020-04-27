@@ -5,6 +5,10 @@ It’s a platform where organizations can give an authorized permit to specific 
 ![Demo](https://i.ibb.co/ccb1447/File-from-i-OS.gif)
 # technologies 
 
+
+## Live link for Cutomer
+- ![Company- Customer App](https://samidahlawi.github.io/homathon-Front-End/#/)
+- ![End-User permit](https://samidahlawi.github.io/easyPass/)
 ### Front-End 
 - HTML
 - CSS

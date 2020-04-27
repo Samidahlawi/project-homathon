@@ -7,8 +7,8 @@ It’s a platform where organizations can give an authorized permit to specific 
 
 
 ## Live link for Cutomer
-- ![Company- Customer App](https://samidahlawi.github.io/homathon-Front-End/#/)
-- ![End-User permit](https://samidahlawi.github.io/easyPass/)
+- [Company- Customer App](https://samidahlawi.github.io/homathon-Front-End/#/)
+- [End-User permit](https://samidahlawi.github.io/easyPass/)
 ### Front-End 
 - HTML
 - CSS

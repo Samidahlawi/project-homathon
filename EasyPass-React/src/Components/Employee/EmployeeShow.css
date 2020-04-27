@@ -1,0 +1,156 @@
+
+.main{
+    /* margin-top: -50px; */
+    /* width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 200px; */
+    /*  */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  .timer{
+    /* height: 100%;
+    width: 90%;
+    text-align: center;
+    border: 5p;
+    border: 5px dashed;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    /*  */
+    /* height: 200px; width: 80%; background-color: #000; color: white; border-radius: 60%; display: inline-block; display: flex; justify-content: center; align-items: center; */
+  }
+  
+  
+  .qr-code{
+    /* width: 70%; */
+  
+    margin: 0 auto;
+    margin-bottom: 50px;
+    box-shadow: 8px 8px 8px black;
+  }
+
+  .qr-code:hover{
+    box-shadow: 15px 15px 15px black;
+  
+  }
+  
+  
+  .profile-header{
+    background-image: url("https://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/Abstract_Blue_Background_with_Wavy_Lines.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* display: flex;
+    justify-content: center; */
+    position: relative;
+    height: 120px;
+    min-width: 100%;
+  }
+  .profile-image{
+    position: absolute;
+    left: 37%;
+    top: 40px;
+  }
+  
+  .profile-background{
+    direction: rtl;
+    background-color: white;
+    height: 100vh;
+    text-align: right;
+    font-family: 'Cairo', sans-serif;
+    padding: 15px;
+    padding-top: 50px;
+  }
+  .nav {
+    justify-content: center !important;
+  }
+  
+  
+  .profile-details{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .profile-row {
+    padding: 5px;
+  }
+  .profile-row label{
+    padding-left: 5px;
+  }
+  
+  .profile-row ion-icon{
+    padding-left: 5px;
+  }
+  
+  .hr{
+    border: 1px dotted gray;
+    width: 70%;
+  }
+  
+  .label-date{
+    display: block;
+    width: 100%;
+  }
+  
+  .box-timer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    /* text-align: justify; */
+  }
+  
+  .time{
+    direction: ltr;
+   
+  }
+  
+  .day{
+    height: 50px;
+    width: 77px;
+    background-color: #000;
+    color: white;
+    padding-top: 8px;
+    padding-right: 8px;
+    border-radius: 45%;
+    display: inline-block;
+    margin-left: 3px ;
+    border: 2px solid black;
+  }
+  
+  .day-off{
+    height: 50px;
+    width: 78px;
+    /* background-color: #000; */
+    color: #000;
+    padding-top: 8px;
+    padding-right: 7px;
+    border-radius: 45%;
+    display: inline-block;
+    margin: 5px;
+    margin-right: 5px;
+    border: 2px solid black;
+  }
+
+  /* .main-header{
+      display: none;
+  } */
+
+  @media (max-width: 576px) { 
+      
+        .tem-profile{
+            top:0;
+            left:0;
+            position: absolute;
+            padding: 0 !important;
+        }
+
+        .qr-code{
+          width: 50%;
+        }
+   }

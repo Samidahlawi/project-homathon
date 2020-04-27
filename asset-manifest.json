@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/easyPass/static/css/main.9f597130.chunk.css",
+    "main.js": "/easyPass/static/js/main.a0751f44.chunk.js",
+    "main.js.map": "/easyPass/static/js/main.a0751f44.chunk.js.map",
+    "runtime-main.js": "/easyPass/static/js/runtime-main.9b6b7099.js",
+    "runtime-main.js.map": "/easyPass/static/js/runtime-main.9b6b7099.js.map",
+    "static/css/2.69121389.chunk.css": "/easyPass/static/css/2.69121389.chunk.css",
+    "static/js/2.c480a947.chunk.js": "/easyPass/static/js/2.c480a947.chunk.js",
+    "static/js/2.c480a947.chunk.js.map": "/easyPass/static/js/2.c480a947.chunk.js.map",
+    "index.html": "/easyPass/index.html",
+    "precache-manifest.4ce6ca8a69b312ec4daac2f753967247.js": "/easyPass/precache-manifest.4ce6ca8a69b312ec4daac2f753967247.js",
+    "service-worker.js": "/easyPass/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/easyPass/static/css/2.69121389.chunk.css.map",
+    "static/css/main.9f597130.chunk.css.map": "/easyPass/static/css/main.9f597130.chunk.css.map",
+    "static/js/2.c480a947.chunk.js.LICENSE.txt": "/easyPass/static/js/2.c480a947.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/easyPass/static/media/logo.c793d8a4.png",
+    "static/media/qrcode.png": "/easyPass/static/media/qrcode.aa389130.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b6b7099.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.c480a947.chunk.js",
+    "static/css/main.9f597130.chunk.css",
+    "static/js/main.a0751f44.chunk.js"
+  ]
+}
